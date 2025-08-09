@@ -1,0 +1,11 @@
+name = "  Hello Python  "
+
+print(repr(name))
+print(name.strip())
+print(name.lower())
+print(name.upper())
+print(name.replace("Python", "World"))
+print(name.split())
+print(name.count("l"))
+print("Hello".isalpha())
+print("Hello123".isalpha())
